@@ -1,0 +1,26 @@
+{
+  "layers": [
+    {
+      "name": "Верхний мир",
+      "locations": [
+        {"id": 0, "name": "Разбитый автобус", "description": "Ржавый автобус, когда-то он ездил по этим дорогам ...", "npc": "stranger", "enemy": "slime"},
+        {"id": 1, "name": "Заброшенная заправка", "description": "Заправка для автобуса?..", "npc": "talking_fish", "enemy": "evil_stone"},
+        {"id": 2, "name": "Полуразрушенный дом", "description": "Скрипят половицы, кто-то водится в углу...", "npc": "snail", "enemy": "mad_pigeon"}
+      ]
+    },
+    {
+      "name": "Нижний мир",
+      "locations": [
+        {"id": 0, "name": "Лавовая пещера", "description": "Жарко, вокруг течёт лава...", "npc": "stranger", "enemy": "slime"},
+        {"id": 1, "name": "Туннель с кристаллами", "description": "Кристаллы светятся в темноте...", "npc": "talking_fish", "enemy": "evil_stone"},
+        {"id": 2, "name": "Древний храм", "description": "Действительно древний храм...", "npc": "snail", "enemy": "mad_pigeon"}
+      ]
+    },
+    {
+      "name": "Логово дракона",
+      "locations": [
+        {"id": 0, "name": "Логово дракона", "description": "Огромная пещера, в центре спит дракон...", "npc": "dragon", "enemy": "none"}
+      ]
+    }
+  ]
+}

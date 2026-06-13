@@ -1,0 +1,38 @@
+{
+  "healing_potion": {
+    "name": "Целебная настойка",
+    "type": "heal",
+    "value": 20,
+    "description": "Восстанавливает 20 HP"
+  },
+  "radiation_shield": {
+    "name": "Радиационный амулет",
+    "type": "radiation",
+    "value": 25,
+    "description": "Уменьшает урон от радиации на 25%"
+  },
+  "energy_elixir": {
+    "name": "Очень целебная настойка",
+    "type": "heal",
+    "value": 35,
+    "description": "Восстанавливает 35 HP"
+  },
+  "ancient_medallion": {
+    "name": "Древний медальон",
+    "type": "lore",
+    "value": 0,
+    "description": "Шепчет вам: Под землёй кто-то чихнул и уснул... Или уснул и чихнул?"
+  },
+  "sharp_fragment": {
+    "name": "Острый осколок",
+    "type": "damage",
+    "value": 5,
+    "description": "Можно использовать для улучшения кулачного боя"
+  },
+  "mutant_eye": {
+    "name": "Глаз мутанта",
+    "type": "lore",
+    "value": 0,
+    "description": "Шепчет вам: Я видел как недавно с небо упало яйцо, а потом кто-то из него вылез. Это инопланетяне? Они существуют?"
+  }
+}

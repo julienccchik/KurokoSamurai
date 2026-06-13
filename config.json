@@ -1,0 +1,42 @@
+{
+  "player": {
+    "max_health": 100,
+    "base_damage_fist": 1,
+    "radiation_damage": 5,
+    "start_loot_chance": 20,
+    "start_radiation_resist": 0
+  },
+  "enemies": {
+    "slime": {
+      "name": "Ожившие слизни",
+      "health": 25,
+      "damage": 4
+    },
+    "evil_stone": {
+      "name": "Злые камни",
+      "health": 40,
+      "damage": 6
+    },
+    "mad_pigeon": {
+      "name": "Безумный голубь",
+      "health": 30,
+      "damage": 8
+    }
+  },
+   "game_settings": {
+    "loot_chance_step": 20,
+    "loot_base_chance": 20,
+    "room_heal": 15,
+    "fist_base_damage": 1,
+    "fist_crit_threshold": 20,
+    "fist_miss_threshold": 1,
+    "sword_range_min": 1,
+    "sword_range_max": 10,
+    "sword_critical_diff": 1,
+    "sword_half_diff": 3,
+    "item_drop_chance": 30,
+    "radiation_damage_base": 5,
+    "damage_item_boost": 3,
+    "damage_item_duration": 3
+  }
+}
